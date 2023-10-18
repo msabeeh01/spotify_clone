@@ -51,7 +51,7 @@ const LeftRight = () => {
 const RightOptions = () => {
     return (
         <div className="flex flex-row justify-between items-center gap-5 px-8">
-            <div className='bg-black px-10 py-1 border-[0.5px] rounded-full text-white'>
+            <div className='bg-black px-10 py-1.5 border-[0.5px] rounded-full text-white'>
                 <p className='text-[14px]'>UPGRADE</p>
             </div>
 
