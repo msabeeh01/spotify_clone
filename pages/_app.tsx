@@ -11,7 +11,7 @@ export default function App({ Component, pageProps }: AppProps) {
       <NavBar />
     </div>
 
-    <div className='flex flex-col w-full'>
+    <div className='flex flex-col w-[63%]'>
       <InHouseNav/>
     <Component {...pageProps} />
     </div>
